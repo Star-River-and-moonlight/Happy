@@ -1,12 +1,14 @@
 body {
     background: #fffef9;
-    font-family: 华文楷体 serif;
 }
 
 @font-face {
     font-family: STKAITI;
     src: url("fonts/STKAITI.TTF");
-    font-display: swap;
+}
+@font-face {
+    font-family: STXINGKA;
+    src: url("fonts/STXINGKA.TTF");
 }
 
 #center {
@@ -237,7 +239,7 @@ span {
 }
 
 .deng-t {
-    font-family: STKAITI, serif;
+    font-family: STXINGKA, serif;
     font-size: 40px;
     color: #dc8f03;
     font-weight: bold;
