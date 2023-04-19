@@ -56,7 +56,7 @@ span {
     color: #c21f30;
     writing-mode: tb-rl;
     position: relative;
-    right: 20px;
+    /*right: 60px;*/
     top: 300px;
 }
 
@@ -104,14 +104,14 @@ span {
 .deng-box {
     position: fixed;
     top: -20px;
-    left: 250px;
+    left: 240px;
     z-index: 3;
 }
 
 .deng-box1 {
     position: fixed;
     top: -20px;
-    right: 250px;
+    right: 240px;
     z-index: 3;
 }
 
