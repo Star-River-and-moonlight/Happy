@@ -1,7 +1,14 @@
 body {
     background: #fffef9;
 }
-
+@font-face {
+    font-family: STKAITI;
+    src: url("fonts/STKAITI.TTF");
+}
+@font-face {
+    font-family: STXINGKA;
+    src: url("fonts/STXINGKA.TTF");
+}
 #center {
     width: 780px;
     height: 974px;
@@ -11,7 +18,7 @@ body {
 }
 
 p {
-    font: 28px 华文楷体;
+    font: 28px STKAITI;
     line-height: 60px;
     position: relative;
     top: 120px;
@@ -44,7 +51,7 @@ span {
 }
 
 #prev-btn {
-    font: 16px 华文楷体;
+    font: 16px STKAITI;
     color: #4e2a40;
     height: 200px;
     position: relative;
@@ -52,7 +59,7 @@ span {
 }
 
 #b {
-    font: 100px 华文楷体;
+    font: 100px STKAITI;
     color: #c21f30;
     margin-right: 52px;
     margin-top: 320px;
@@ -60,7 +67,7 @@ span {
 
 #c {
     text-align: center;
-    font: 16px 楷体;
+    font: 16px STKAITI;
     margin-top: 20px;
 }
 
@@ -230,7 +237,7 @@ span {
 }
 
 .deng-t {
-    font-family: 华文行楷, serif;
+    font-family: STXINGKA, serif;
     font-size: 40px;
     color: #dc8f03;
     font-weight: bold;
