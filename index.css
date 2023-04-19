@@ -3,11 +3,11 @@ body {
 }
 @font-face {
     font-family: STKAITI;
-    src: url("https://cdn.jsdelivr.net/gh/star-river-and-moonlight/Happy/font/STKAITI.TTF");
+    src: url("fonts/STKAITI.TTF");
 }
 @font-face {
     font-family: STXINGKA;
-    src: url("https://cdn.jsdelivr.net/gh/star-river-and-moonlight/Happy/font/STXINGKA.TTF");
+    src: url("fonts/STXINGKA.TTF");
 }
 #center {
     width: 780px;
