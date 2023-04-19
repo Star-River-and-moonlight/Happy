@@ -52,6 +52,7 @@ span {
 }
 
 #b {
+    margin: 0 auto;
     font: 100px 华文楷体;
     color: #c21f30;
     position: absolute;
