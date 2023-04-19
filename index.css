@@ -54,10 +54,9 @@ span {
 #b {
     font: 100px 华文楷体;
     color: #c21f30;
-    writing-mode: tb-rl;
     position: relative;
-    /*right: 60px;*/
-    top: 300px;
+    bottom: 160px;
+    right: 80px;
 }
 
 #c {
