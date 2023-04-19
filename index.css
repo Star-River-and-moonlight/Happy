@@ -55,8 +55,8 @@ span {
     font: 100px 华文楷体;
     color: #c21f30;
     writing-mode: tb-rl;
-    position: absolute;
-    right: 1060px;
+    position: relative;
+    right: 20px;
     top: 300px;
 }
 
