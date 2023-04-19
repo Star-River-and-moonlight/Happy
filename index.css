@@ -1,14 +1,20 @@
 body {
     background: #fffef9;
+    font-family: 华文行楷, 楷体, serif;
 }
+
 @font-face {
     font-family: STKAITI;
     src: url("fonts/STKAITI.TTF");
+    font-display: swap;
 }
+
 @font-face {
     font-family: STXINGKA;
     src: url("fonts/STXINGKA.TTF");
+    font-display: swap;
 }
+
 #center {
     width: 780px;
     height: 974px;
